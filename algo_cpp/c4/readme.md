@@ -1,0 +1,1 @@
+sujet: Ecrire un programme qui lit le rayon d'un cercle puis calcule et affiche son périmètre sa surface
