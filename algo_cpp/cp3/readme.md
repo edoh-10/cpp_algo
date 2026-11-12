@@ -1,0 +1,1 @@
+sujet: Ecrire un programme qui lit les dimensions d'un rectangle puis calcule et affiche son périmètre et sa surface.
