@@ -1,0 +1,2 @@
+sujet: Ecrire un programme qui calcule le prix TTC de type double d'un produit à partir du prix  NET de type int et du pourcentage de TVA de type à ajouter. 
+formule à utiliser (pTTC = pNet(1 + 0.01 * TVA))
