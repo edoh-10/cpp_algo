@@ -1,1 +1,1 @@
-Sujet: Ecrire un programme qui fait la résolution d'une équation du 
+Sujet: Ecrire un programme qui fait la résolution d'une équation du 2nd degré.(ax2 + bx + c = 0)
