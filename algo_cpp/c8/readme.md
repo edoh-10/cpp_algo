@@ -1,0 +1,1 @@
+Sujet: Ecrire un programme qui fait la résolution d'une d'une équation du 1er degré. (ax + b = 0)

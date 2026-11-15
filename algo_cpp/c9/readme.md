@@ -1,0 +1,1 @@
+Sujet: Ecrire un programme qui fait la résolution d'une équation du 
