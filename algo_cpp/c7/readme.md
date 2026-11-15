@@ -1,0 +1,1 @@
+Sujet: Ecrire un programme qui lit trois entiers a, b, c puis affiche le maximum des trois.
