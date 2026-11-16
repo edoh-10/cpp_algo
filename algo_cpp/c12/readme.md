@@ -1,0 +1,1 @@
+Sujet: Ecrire un programme qui lit un jour jj, un mois mm, et une année aa puis vérifie et affiche si la date jj/mm/aa est valide.
