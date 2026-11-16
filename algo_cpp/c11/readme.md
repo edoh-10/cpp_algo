@@ -1,0 +1,1 @@
+Sujet: Ecrire un programme qui lit un entier compris entre 1 et 12 puis affiche le mois qui correspond
